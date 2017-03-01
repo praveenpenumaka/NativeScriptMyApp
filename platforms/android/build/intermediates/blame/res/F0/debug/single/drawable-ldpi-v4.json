@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/praveen/Workspace/flikster/myApp/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi-v4/icon.png",
+        "source": "/Users/praveen/Workspace/flikster/myApp/platforms/android/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/praveen/Workspace/flikster/myApp/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi-v4/logo.png",
+        "source": "/Users/praveen/Workspace/flikster/myApp/platforms/android/src/main/res/drawable-ldpi/logo.png"
+    },
+    {
+        "merged": "/Users/praveen/Workspace/flikster/myApp/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi-v4/background.png",
+        "source": "/Users/praveen/Workspace/flikster/myApp/platforms/android/src/main/res/drawable-ldpi/background.png"
+    }
+]
